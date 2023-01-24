@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+
+<!-- BaseValues (On Plenty (Easy) Difficulty): -->
+<!-- Investors Residence = 3 -->
+<!-- Investors Skyscraper lvl 1 = 4 -->
+<!-- Investors Skyscraper lvl 2 = 5 -->
+<!-- Investors Skyscraper lvl 3 = 6 -->
+<!-- Investors Skyscraper lvl 4 = 7 -->
+<!-- Investors Skyscraper lvl 5 = 8 -->
+<!-- Investors Skyline Tower = 50 -->
+
+<!-- Engineers Residence = 0 -->
+<!-- Engineers Skyscraper lvl 1 = 1 -->
+<!-- Engineers Skyscraper lvl 2 = 2 -->
+<!-- Engineers Skyscraper lvl 3 = 3 -->
+
+<!-- *** NOTE : The Number between <InfluenceAmount> adds up to the numbers above (except for the Skyline Tower) *** -->
+
+<ModOps>
+
+	<!--Old World Farmers-->
+	<ModOp Type="add" GUID="1010343" Path="/Values/InfluenceSource">
+		<InfluenceAmount>0</InfluenceAmount>
+	</ModOp>
+
+	<!--Old World Workers-->
+	<ModOp Type="add" GUID="1010344" Path="/Values/InfluenceSource">
+		<InfluenceAmount>0</InfluenceAmount>
+	</ModOp>
+
+	<!--Old World Artisans-->
+	<ModOp Type="add" GUID="1010345" Path="/Values/InfluenceSource">
+		<InfluenceAmount>0</InfluenceAmount>
+	</ModOp>
+
+	<!--Old World Engineers-->
+	<ModOp Type="add" GUID="1010346" Path="/Values/InfluenceSource">
+		<InfluenceAmount>1</InfluenceAmount>
+	</ModOp>
+
+	<!--Engineer Skyscraper: Level 1-->
+	<ModOp Type="add" GUID="601888" Path="/Values/InfluenceSource">
+		<InfluenceAmount>1</InfluenceAmount>
+	</ModOp>
+
+	<!--Engineer Skyscraper: Level 2-->
+	<ModOp Type="add" GUID="601889" Path="/Values/InfluenceSource">
+		<InfluenceAmount>2</InfluenceAmount>
+	</ModOp>
+
+	<!--Engineer Skyscraper: Level 3-->
+	<ModOp Type="add" GUID="601890" Path="/Values/InfluenceSource">
+		<InfluenceAmount>3</InfluenceAmount>
+	</ModOp>
+	
+	<!--Old World Investors-->
+	<ModOp Type="add" GUID="1010347" Path="/Values/InfluenceSource">
+		<InfluenceAmount>3</InfluenceAmount>
+	</ModOp>
+
+	<!--Investor Skyscraper: Level 1-->
+	<ModOp Type="add" GUID="601882" Path="/Values/InfluenceSource">
+		<InfluenceAmount>4</InfluenceAmount>
+	</ModOp>
+
+	<!--Investor Skyscraper: Level 2-->
+	<ModOp Type="add" GUID="601883" Path="/Values/InfluenceSource">
+		<InfluenceAmount>5</InfluenceAmount>
+	</ModOp>
+
+	<!--Investor Skyscraper: Level 3-->
+	<ModOp Type="add" GUID="601884" Path="/Values/InfluenceSource">
+		<InfluenceAmount>6</InfluenceAmount>
+	</ModOp>
+
+	<!--Investor Skyscraper: Level 4-->
+	<ModOp Type="add" GUID="601886" Path="/Values/InfluenceSource">
+		<InfluenceAmount>7</InfluenceAmount>
+	</ModOp>
+
+	<!--Investor Skyscraper: Level 5-->
+	<ModOp Type="add" GUID="601891" Path="/Values/InfluenceSource">
+		<InfluenceAmount>8</InfluenceAmount>
+	</ModOp>
+
+	<!--Investor's Skyline Tower-->
+	<ModOp Type="merge" GUID="406" Path="/Values/InfluenceSource">
+		<!-- This amount doesn't add up, it's the total amount gained -->
+		<InfluenceAmount>100</InfluenceAmount>
+	</ModOp>
+
+	<!--New World Jornaleros-->
+	<ModOp Type="add" GUID="101254" Path="/Values/InfluenceSource">
+		<InfluenceAmount>0</InfluenceAmount>
+	</ModOp>
+
+	<!--New World Obreros-->
+	<ModOp Type="add" GUID="101255" Path="/Values/InfluenceSource">
+		<InfluenceAmount>0</InfluenceAmount>
+	</ModOp>
+
+	<!--New World Artistas-->
+	<ModOp Type="add" GUID="5405" Path="/Values/InfluenceSource">
+		<InfluenceAmount>0</InfluenceAmount>
+	</ModOp>
+
+	<!--New World Jornaleros Hacienda Quarters-->
+	<ModOp Type="add" GUID="24792" Path="/Values/InfluenceSource">
+		<InfluenceAmount>0</InfluenceAmount>
+	</ModOp>
+
+	<!--New World Obreros Hacienda Quarters-->
+	<ModOp Type="add" GUID="24793" Path="/Values/InfluenceSource">
+		<InfluenceAmount>0</InfluenceAmount>
+	</ModOp>
+
+	<!--New World Artistas Hacienda Quarters-->
+	<ModOp Type="add" GUID="6086" Path="/Values/InfluenceSource">
+		<InfluenceAmount>0</InfluenceAmount>
+	</ModOp>
+
+	<!--Arctic Explorers-->
+	<ModOp Type="add" GUID="112091" Path="/Values/InfluenceSource">
+		<InfluenceAmount>0</InfluenceAmount>
+	</ModOp>
+
+	<!--Arctic Technicians-->
+	<ModOp Type="add" GUID="112652" Path="/Values/InfluenceSource">
+		<InfluenceAmount>0</InfluenceAmount>
+	</ModOp>
+
+	<!--Enbesa Sheperds-->
+	<ModOp Type="add" GUID="114436" Path="/Values/InfluenceSource">
+		<InfluenceAmount>0</InfluenceAmount>
+	</ModOp>
+
+	<!--Enbesa Elders-->
+	<ModOp Type="add" GUID="114437" Path="/Values/InfluenceSource">
+		<InfluenceAmount>0</InfluenceAmount>
+	</ModOp>
+
+	<!--Scholar Residence-->
+	<ModOp Type="add" GUID="114445" Path="/Values/InfluenceSource">
+		<InfluenceAmount>0</InfluenceAmount>
+	</ModOp>
+
+	<!--Tourists Hotel-->
+	<ModOp Type="merge" GUID="601445" Path="/Values/InfluenceSource">
+		<InfluenceAmount>0</InfluenceAmount>
+	</ModOp>
+
+</ModOps>
