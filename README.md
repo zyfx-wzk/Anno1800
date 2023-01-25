@@ -7,7 +7,7 @@
 
 #### 2023.01.24
 
-- [[Boost] Consumption x0.2(人口消费变为0.2倍)](https://www.nexusmods.com/anno1800/mods/60)
-- [[Boost] Population Density x10.0(人口密度变为10倍)](https://www.nexusmods.com/anno1800/mods/60)
+- [[Boost] Consumption(人口消费变为0.2倍)](https://www.nexusmods.com/anno1800/mods/60)
+- [[Boost] Population Density(人口密度变为10倍)](https://www.nexusmods.com/anno1800/mods/60)
 - [[Boost] Fast Move-In(人口快速迁入)](https://www.nexusmods.com/anno1800/mods/209)
 - [[Boost] Influence Boost(住宅影响力提升)](https://www.nexusmods.com/anno1800/mods/210)
