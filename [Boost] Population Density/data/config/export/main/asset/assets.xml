@@ -1,0 +1,3166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+	
+	<!-- ========================================================================= -->
+	<!-- Farmer Residence -->
+	<ModOp Type="merge" GUID="1010343" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>100</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="1010343" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>100</ResidentsRequiredForUpgrade>
+	</ModOp>
+	
+		<!-- Market -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120020']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Fish -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010200']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Work Clothes -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010237']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Flour -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010235']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Sugar -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010239']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Jam -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133183']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010203']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Herbs -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5383']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Hibiscus Petals -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114364']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!-- Worker Residence -->
+	<ModOp Type="merge" GUID="1010344" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>200</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="1010344" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>200</ResidentsRequiredForUpgrade>
+	</ModOp>
+	
+		<!-- Market -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120020']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Fish -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010200']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Work Clothes -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010237']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Sausages -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010238']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010213']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010203']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- School -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010351']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Rum -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010257']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Penny Farthings -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010245']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Hot Sauce -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '25506']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Beef -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010193']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Soccer Balls -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5803']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Clay Pipe -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114414']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!-- Artisan Residence -->
+	<ModOp Type="merge" GUID="1010345" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>300</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="1010345" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>300</ResidentsRequiredForUpgrade>
+	</ModOp>
+	
+		<!-- Sausages -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010238']/SupplyWeight">
+		<SupplyWeight>60</SupplyWeight>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010213']/SupplyWeight">
+		<SupplyWeight>60</SupplyWeight>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010203']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- School -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010351']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010217']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010206']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Fur Coats -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010247']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010353']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Wool -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010197']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Clay -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010201']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Paper -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '117702']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/SupplyWeight">
+		<SupplyWeight>60</SupplyWeight>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/SupplyWeight">
+		<SupplyWeight>140</SupplyWeight>
+	</ModOp>
+		<!-- Soccer Balls -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5803']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5388']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Scooter -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5391']/SupplyWeight">
+		<SupplyWeight>70</SupplyWeight>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!-- Engineer Residence -->
+	<ModOp Type="merge" GUID="1010346" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>400</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="1010346" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>400</ResidentsRequiredForUpgrade>
+	</ModOp>
+	<!-- Engineer Skyscraper: Level 1 -->
+	<ModOp Type="merge" GUID="601888" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>600</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="601888" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>600</ResidentsRequiredForUpgrade>
+	</ModOp>
+	<!-- Engineer Skyscraper: Level 2 -->
+	<ModOp Type="merge" GUID="601889" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>800</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="601889" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>800</ResidentsRequiredForUpgrade>
+	</ModOp>
+	<!-- Engineer Skyscraper: Level 3 -->
+	<ModOp Type="merge" GUID="601890" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>1000</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="601890" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>1000</ResidentsRequiredForUpgrade>
+	</ModOp>
+	
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010217']/SupplyWeight">
+		<SupplyWeight>120</SupplyWeight>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010206']/SupplyWeight">
+		<SupplyWeight>60</SupplyWeight>
+	</ModOp>
+		<!-- Fur Coats -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010247']/SupplyWeight">
+		<SupplyWeight>60</SupplyWeight>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010353']/SupplyWeight">
+		<SupplyWeight>60</SupplyWeight>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120030']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120032']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Electricity -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010354']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010208']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Department Store -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135108']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Chewing Gum -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135186']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Furniture Store -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135107']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Typewriters -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135230']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Drug Store -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135109']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Violins -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135233']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010203']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010258']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Shampoo -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133181']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/SupplyWeight">
+		<SupplyWeight>70</SupplyWeight>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/SupplyWeight">
+		<SupplyWeight>150</SupplyWeight>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '6600']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Ice Cream -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5382']/SupplyWeight">
+		<SupplyWeight>60</SupplyWeight>
+	</ModOp>
+		<!-- Medicine -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5397']/SupplyWeight">
+		<SupplyWeight>70</SupplyWeight>
+	</ModOp>
+	
+	<!-- Weak Panorama -->
+	<ModOp Type="merge" GUID="601908" Path="/Values/PopulationUpgrade/ResidentsUpgrade/Value">
+		<Value>200</Value>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="601908" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120030']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="601908" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Electricity -->
+	<ModOp Type="merge" GUID="601908" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010354']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="601908" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="601908" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="601908" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="601908" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>70</AdditionalSupply>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="601908" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010203']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="601908" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Shampoo -->
+	<ModOp Type="merge" GUID="601908" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '133181']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Ice Cream -->
+	<ModOp Type="merge" GUID="601908" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5382']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Medicine -->
+	<ModOp Type="merge" GUID="601908" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5397']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="601908" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '6600']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+	<!-- Moderate Panorama -->
+	<ModOp Type="merge" GUID="601909" Path="/Values/PopulationUpgrade/ResidentsUpgrade/Value">
+		<Value>400</Value>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="601909" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120030']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="601909" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Electricity -->
+	<ModOp Type="merge" GUID="601909" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010354']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="601909" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="601909" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="601909" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="601909" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>140</AdditionalSupply>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="601909" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010203']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="601909" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Shampoo -->
+	<ModOp Type="merge" GUID="601909" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '133181']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Ice Cream -->
+	<ModOp Type="merge" GUID="601909" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5382']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Medicine -->
+	<ModOp Type="merge" GUID="601909" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5397']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="601909" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '6600']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+	<!-- Decent Panorama -->
+	<ModOp Type="merge" GUID="601910" Path="/Values/PopulationUpgrade/ResidentsUpgrade/Value">
+		<Value>600</Value>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="601910" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120030']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="601910" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Electricity -->
+	<ModOp Type="merge" GUID="601910" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010354']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="601910" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="601910" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>60</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="601910" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>120</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="601910" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>220</AdditionalSupply>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="601910" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010203']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="601910" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Shampoo -->
+	<ModOp Type="merge" GUID="601910" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '133181']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Ice Cream -->
+	<ModOp Type="merge" GUID="601910" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5382']/AdditionalSupply">
+		<AdditionalSupply>60</AdditionalSupply>
+	</ModOp>
+		<!-- Medicine -->
+	<ModOp Type="merge" GUID="601910" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5397']/AdditionalSupply">
+		<AdditionalSupply>60</AdditionalSupply>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="601910" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '6600']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+	<!-- Strong Panorama -->
+	<ModOp Type="merge" GUID="601911" Path="/Values/PopulationUpgrade/ResidentsUpgrade/Value">
+		<Value>800</Value>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="601911" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120030']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="601911" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Electricity -->
+	<ModOp Type="merge" GUID="601911" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010354']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="601911" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="601911" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="601911" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="601911" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>290</AdditionalSupply>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="601911" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010203']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="601911" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Shampoo -->
+	<ModOp Type="merge" GUID="601911" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '133181']/AdditionalSupply">
+		<AdditionalSupply>60</AdditionalSupply>
+	</ModOp>
+		<!-- Ice Cream -->
+	<ModOp Type="merge" GUID="601911" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5382']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Medicine -->
+	<ModOp Type="merge" GUID="601911" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5397']/AdditionalSupply">
+		<AdditionalSupply>70</AdditionalSupply>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="601911" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '6600']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+	<!-- Intense Panorama -->
+	<ModOp Type="merge" GUID="601912" Path="/Values/PopulationUpgrade/ResidentsUpgrade/Value">
+		<Value>1000</Value>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="601912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120030']/AdditionalSupply">
+		<AdditionalSupply>250</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="601912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>250</AdditionalSupply>
+	</ModOp>
+		<!-- Electricity -->
+	<ModOp Type="merge" GUID="601912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010354']/AdditionalSupply">
+		<AdditionalSupply>250</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="601912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>250</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="601912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="601912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>190</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="601912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>360</AdditionalSupply>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="601912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010203']/AdditionalSupply">
+		<AdditionalSupply>60</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="601912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>60</AdditionalSupply>
+	</ModOp>
+		<!-- Shampoo -->
+	<ModOp Type="merge" GUID="601912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '133181']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Ice Cream -->
+	<ModOp Type="merge" GUID="601912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5382']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Medicine -->
+	<ModOp Type="merge" GUID="601912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5397']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="601912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '6600']/AdditionalSupply">
+		<AdditionalSupply>60</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Skyscraper Additional Pop Level 1 -->
+		<!-- Department Store -->
+	<ModOp Type="merge" GUID="136398" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135108']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="136398" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010203']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="136398" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Shampoo -->
+	<ModOp Type="merge" GUID="136398" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '133181']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="136398" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="136398" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="136398" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Ice Cream -->
+	<ModOp Type="merge" GUID="136398" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5382']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="136398" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '6600']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Medicine -->
+	<ModOp Type="merge" GUID="136398" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5397']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+	<!-- Skyscraper Additional Pop Level 2 -->
+		<!-- Department Store -->
+	<ModOp Type="merge" GUID="136399" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135108']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Chewing Gum -->
+	<ModOp Type="merge" GUID="136399" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135186']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Furniture Store -->
+	<ModOp Type="merge" GUID="136399" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135107']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="136399" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010203']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="136399" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Shampoo -->
+	<ModOp Type="merge" GUID="136399" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '133181']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="136399" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="136399" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="136399" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Ice Cream -->
+	<ModOp Type="merge" GUID="136399" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5382']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Medicine -->
+	<ModOp Type="merge" GUID="136399" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5397']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="136399" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '6600']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+	<!-- Skyscraper Additional Pop Level 3 -->
+		<!-- Department Store -->
+	<ModOp Type="merge" GUID="136400" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135108']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Chewing Gum -->
+	<ModOp Type="merge" GUID="136400" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135186']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Furniture Store -->
+	<ModOp Type="merge" GUID="136400" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135107']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Typewriters -->
+	<ModOp Type="merge" GUID="136400" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135230']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Drug Store -->
+	<ModOp Type="merge" GUID="136400" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135109']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Violins -->
+	<ModOp Type="merge" GUID="136400" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135233']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="136400" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010203']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="136400" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="136400" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>60</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="136400" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="136400" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Shampoo -->
+	<ModOp Type="merge" GUID="136400" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '133181']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Ice Cream -->
+	<ModOp Type="merge" GUID="136400" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5382']/AdditionalSupply">
+		<AdditionalSupply>60</AdditionalSupply>
+	</ModOp>
+		<!-- Medicine -->
+	<ModOp Type="merge" GUID="136400" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5397']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="136400" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '6600']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!-- Investor Residence -->
+	<ModOp Type="merge" GUID="1010347" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>500</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="1010347" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>500</ResidentsRequiredForUpgrade>
+	</ModOp>
+	<!-- Investor Skyscraper: Level 1 -->
+	<ModOp Type="merge" GUID="601882" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>750</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="601882" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>750</ResidentsRequiredForUpgrade>
+	</ModOp>
+	<!-- Investor Skyscraper: Level 2 -->
+	<ModOp Type="merge" GUID="601883" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>1000</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="601883" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>1000</ResidentsRequiredForUpgrade>
+	</ModOp>
+	<!-- Investor Skyscraper: Level 3 -->
+	<ModOp Type="merge" GUID="601884" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>1250</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="601884" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>1250</ResidentsRequiredForUpgrade>
+	</ModOp>
+	<!-- Investor Skyscraper: Level 4 -->
+	<ModOp Type="merge" GUID="601886" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>1500</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="601886" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>1500</ResidentsRequiredForUpgrade>
+	</ModOp>
+	<!-- Investor Skyscraper: Level 5 -->
+	<ModOp Type="merge" GUID="601891" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>1750</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="601891" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>1750</ResidentsRequiredForUpgrade>
+	</ModOp>
+	<!-- Skyline Tower -->
+	<ModOp Type="merge" GUID="406" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>25000</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="406" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>25000</ResidentsRequiredForUpgrade>
+	</ModOp>
+	
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120030']/SupplyWeight">
+		<SupplyWeight>160</SupplyWeight>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120032']/SupplyWeight">
+		<SupplyWeight>80</SupplyWeight>
+	</ModOp>
+		<!-- Electricity -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010354']/SupplyWeight">
+		<SupplyWeight>80</SupplyWeight>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010208']/SupplyWeight">
+		<SupplyWeight>80</SupplyWeight>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120016']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Cigars -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010259']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010258']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010225']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Department Store -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135108']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Chewing Gum -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135186']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Biscuits -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135229']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Cognac -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135234']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Furniture Store -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135107']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Typewriters -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135230']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Billiard Tables -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135232']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Violins -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135233']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Drug Store -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135109']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Toys -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135231']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Toaster Supply -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135816']/SupplyWeight">
+		<SupplyWeight>1000</SupplyWeight>
+	</ModOp>
+		<!-- Crockery Supply -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135876']/SupplyWeight">
+		<SupplyWeight>1000</SupplyWeight>
+	</ModOp>
+		<!-- Vaccum Cleaner Supply -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135877']/SupplyWeight">
+		<SupplyWeight>1000</SupplyWeight>
+	</ModOp>
+		<!-- Refrigerator Supply -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135878']/SupplyWeight">
+		<SupplyWeight>1000</SupplyWeight>
+	</ModOp>
+		<!-- Briefcase Supply -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135879']/SupplyWeight">
+		<SupplyWeight>1000</SupplyWeight>
+	</ModOp>
+		<!-- Banker's Lamp Supply -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135880']/SupplyWeight">
+		<SupplyWeight>1000</SupplyWeight>
+	</ModOp>
+		<!-- Vanity Screen Supply -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135881']/SupplyWeight">
+		<SupplyWeight>1000</SupplyWeight>
+	</ModOp>
+		<!-- Writing Desk Supply -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135882']/SupplyWeight">
+		<SupplyWeight>1000</SupplyWeight>
+	</ModOp>
+		<!-- Four-Poster Bed Supply -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135883']/SupplyWeight">
+		<SupplyWeight>1000</SupplyWeight>
+	</ModOp>
+		<!-- Lounge Seating Supply -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135884']/SupplyWeight">
+		<SupplyWeight>1000</SupplyWeight>
+	</ModOp>
+		<!-- Toothpaste Supply -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135885']/SupplyWeight">
+		<SupplyWeight>1000</SupplyWeight>
+	</ModOp>
+		<!-- Detergent Supply -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135886']/SupplyWeight">
+		<SupplyWeight>1000</SupplyWeight>
+	</ModOp>
+		<!-- Lipstick Supply -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135887']/SupplyWeight">
+		<SupplyWeight>1000</SupplyWeight>
+	</ModOp>
+		<!-- Face Cream Supply -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135888']/SupplyWeight">
+		<SupplyWeight>1000</SupplyWeight>
+	</ModOp>
+		<!-- Pomade Supply -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135889']/SupplyWeight">
+		<SupplyWeight>1000</SupplyWeight>
+	</ModOp>
+		<!-- Furs -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010209']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Bear Fur -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112695']/SupplyWeight">
+		<SupplyWeight>60</SupplyWeight>
+	</ModOp>
+		<!-- Tapestries -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114404']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/SupplyWeight">
+		<SupplyWeight>80</SupplyWeight>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/SupplyWeight">
+		<SupplyWeight>120</SupplyWeight>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/SupplyWeight">
+		<SupplyWeight>250</SupplyWeight>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5388']/SupplyWeight">
+		<SupplyWeight>70</SupplyWeight>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5395']/SupplyWeight">
+		<SupplyWeight>100</SupplyWeight>
+	</ModOp>
+		<!-- Film Reel -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5392']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+	
+	<!-- Weak Panorama -->
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="601904" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Cigars -->
+	<ModOp Type="merge" GUID="601904" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010259']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="601904" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="601904" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Electricity -->
+	<ModOp Type="merge" GUID="601904" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010354']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="601904" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="601904" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>60</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="601904" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>120</AdditionalSupply>
+	</ModOp>
+		<!-- Furs -->
+	<ModOp Type="merge" GUID="601904" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010209']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Bear Fur -->
+	<ModOp Type="merge" GUID="601904" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '112695']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Tapestries -->
+	<ModOp Type="merge" GUID="601904" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114404']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="601904" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5388']/AdditionalSupply">
+		<AdditionalSupply>70</AdditionalSupply>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="601904" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5395']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Film Reel -->
+	<ModOp Type="merge" GUID="601904" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5392']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+	<!-- Moderate Panorama -->
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="601903" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Cigars -->
+	<ModOp Type="merge" GUID="601903" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010259']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="601903" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="601903" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Electricity -->
+	<ModOp Type="merge" GUID="601903" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010354']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="601903" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="601903" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>120</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="601903" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>240</AdditionalSupply>
+	</ModOp>
+		<!-- Furs -->
+	<ModOp Type="merge" GUID="601903" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010209']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Bear Fur -->
+	<ModOp Type="merge" GUID="601903" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '112695']/AdditionalSupply">
+		<AdditionalSupply>70</AdditionalSupply>
+	</ModOp>
+		<!-- Tapestries -->
+	<ModOp Type="merge" GUID="601903" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114404']/AdditionalSupply">
+		<AdditionalSupply>70</AdditionalSupply>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="601903" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5388']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="601903" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5395']/AdditionalSupply">
+		<AdditionalSupply>110</AdditionalSupply>
+	</ModOp>
+		<!-- Film Reel -->
+	<ModOp Type="merge" GUID="601903" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5392']/AdditionalSupply">
+		<AdditionalSupply>70</AdditionalSupply>
+	</ModOp>
+	<!-- Decent Panorama -->
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="601905" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Cigars -->
+	<ModOp Type="merge" GUID="601905" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010259']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="601905" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="601905" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Electricity -->
+	<ModOp Type="merge" GUID="601905" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010354']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="601905" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>120</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="601905" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="601905" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>360</AdditionalSupply>
+	</ModOp>
+		<!-- Furs -->
+	<ModOp Type="merge" GUID="601905" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010209']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Bear Fur -->
+	<ModOp Type="merge" GUID="601905" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '112695']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+		<!-- Tapestries -->
+	<ModOp Type="merge" GUID="601905" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114404']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="601905" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5388']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="601905" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5395']/AdditionalSupply">
+		<AdditionalSupply>120</AdditionalSupply>
+	</ModOp>
+		<!-- Film Reel -->
+	<ModOp Type="merge" GUID="601905" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5392']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+	<!-- Strong Panorama -->
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="601906" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Cigars -->
+	<ModOp Type="merge" GUID="601906" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010259']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="601906" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="601906" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Electricity -->
+	<ModOp Type="merge" GUID="601906" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010354']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="601906" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="601906" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>230</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="601906" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>480</AdditionalSupply>
+	</ModOp>
+		<!-- Furs -->
+	<ModOp Type="merge" GUID="601906" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010209']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Bear Fur -->
+	<ModOp Type="merge" GUID="601906" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '112695']/AdditionalSupply">
+		<AdditionalSupply>110</AdditionalSupply>
+	</ModOp>
+		<!-- Tapestries -->
+	<ModOp Type="merge" GUID="601906" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114404']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="601906" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5388']/AdditionalSupply">
+		<AdditionalSupply>120</AdditionalSupply>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="601906" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5395']/AdditionalSupply">
+		<AdditionalSupply>140</AdditionalSupply>
+	</ModOp>
+		<!-- Film Reel -->
+	<ModOp Type="merge" GUID="601906" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5392']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+	<!-- Intense Panorama -->
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="601902" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>250</AdditionalSupply>
+	</ModOp>
+		<!-- Cigars -->
+	<ModOp Type="merge" GUID="601902" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010259']/AdditionalSupply">
+		<AdditionalSupply>250</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="601902" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>250</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="601902" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>250</AdditionalSupply>
+	</ModOp>
+		<!-- Electricity -->
+	<ModOp Type="merge" GUID="601902" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010354']/AdditionalSupply">
+		<AdditionalSupply>250</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="601902" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>240</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="601902" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>290</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="601902" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>600</AdditionalSupply>
+	</ModOp>
+		<!-- Furs -->
+	<ModOp Type="merge" GUID="601902" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010209']/AdditionalSupply">
+		<AdditionalSupply>120</AdditionalSupply>
+	</ModOp>
+		<!-- Bear Fur -->
+	<ModOp Type="merge" GUID="601902" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '112695']/AdditionalSupply">
+		<AdditionalSupply>130</AdditionalSupply>
+	</ModOp>
+		<!-- Tapestries -->
+	<ModOp Type="merge" GUID="601902" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114404']/AdditionalSupply">
+		<AdditionalSupply>130</AdditionalSupply>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="601902" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5388']/AdditionalSupply">
+		<AdditionalSupply>140</AdditionalSupply>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="601902" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5395']/AdditionalSupply">
+		<AdditionalSupply>160</AdditionalSupply>
+	</ModOp>
+		<!-- Film Reel -->
+	<ModOp Type="merge" GUID="601902" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5392']/AdditionalSupply">
+		<AdditionalSupply>130</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Skyscraper Additional Pop Level 1 -->
+		<!-- Department Store -->
+	<ModOp Type="merge" GUID="136401" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135108']/AdditionalSupply">
+		<AdditionalSupply>240</AdditionalSupply>
+	</ModOp>
+		<!-- Furs -->
+	<ModOp Type="merge" GUID="136401" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010209']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Bear Fur -->
+	<ModOp Type="merge" GUID="136401" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '112695']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Tapestries -->
+	<ModOp Type="merge" GUID="136401" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114404']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="136401" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="136401" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="136401" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="136401" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5388']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="136401" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5395']/AdditionalSupply">
+		<AdditionalSupply>60</AdditionalSupply>
+	</ModOp>
+		<!-- Film Reel -->
+	<ModOp Type="merge" GUID="136401" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5392']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+	<!-- Skyscraper Additional Pop Level 2 -->
+		<!-- Department Store -->
+	<ModOp Type="merge" GUID="136405" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135108']/AdditionalSupply">
+		<AdditionalSupply>240</AdditionalSupply>
+	</ModOp>
+		<!-- Chewing Gum -->
+	<ModOp Type="merge" GUID="136405" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135186']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+		<!-- Biscuits -->
+	<ModOp Type="merge" GUID="136405" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135229']/AdditionalSupply">
+		<AdditionalSupply>140</AdditionalSupply>
+	</ModOp>
+		<!-- Furs -->
+	<ModOp Type="merge" GUID="136405" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010209']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Bear Fur -->
+	<ModOp Type="merge" GUID="136405" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '112695']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Tapestries -->
+	<ModOp Type="merge" GUID="136405" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114404']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="136405" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="136405" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="136405" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>160</AdditionalSupply>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="136405" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5388']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="136405" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5395']/AdditionalSupply">
+		<AdditionalSupply>70</AdditionalSupply>
+	</ModOp>
+		<!-- Film Reel -->
+	<ModOp Type="merge" GUID="136405" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5392']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+	<!-- Skyscraper Additional Pop Level 3 -->
+		<!-- Department Store -->
+	<ModOp Type="merge" GUID="136406" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135108']/AdditionalSupply">
+		<AdditionalSupply>240</AdditionalSupply>
+	</ModOp>
+		<!-- Chewing Gum -->
+	<ModOp Type="merge" GUID="136406" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135186']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+		<!-- Biscuits -->
+	<ModOp Type="merge" GUID="136406" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135229']/AdditionalSupply">
+		<AdditionalSupply>140</AdditionalSupply>
+	</ModOp>
+		<!-- Cognac -->
+	<ModOp Type="merge" GUID="136406" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135234']/AdditionalSupply">
+		<AdditionalSupply>140</AdditionalSupply>
+	</ModOp>
+		<!-- Furniture Store -->
+	<ModOp Type="merge" GUID="136406" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135107']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+		<!-- Furs -->
+	<ModOp Type="merge" GUID="136406" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010209']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Bear Fur -->
+	<ModOp Type="merge" GUID="136406" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '112695']/AdditionalSupply">
+		<AdditionalSupply>60</AdditionalSupply>
+	</ModOp>
+		<!-- Tapestries -->
+	<ModOp Type="merge" GUID="136406" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114404']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="136406" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="136406" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="136406" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>240</AdditionalSupply>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="136406" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5388']/AdditionalSupply">
+		<AdditionalSupply>60</AdditionalSupply>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="136406" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5395']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Film Reel -->
+	<ModOp Type="merge" GUID="136406" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5392']/AdditionalSupply">
+		<AdditionalSupply>60</AdditionalSupply>
+	</ModOp>
+	<!-- Skyscraper Additional Pop Level 4 -->
+		<!-- Department Store -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135108']/AdditionalSupply">
+		<AdditionalSupply>240</AdditionalSupply>
+	</ModOp>
+		<!-- Chewing Gum -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135186']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+		<!-- Biscuits -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135229']/AdditionalSupply">
+		<AdditionalSupply>140</AdditionalSupply>
+	</ModOp>
+		<!-- Cognac -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135234']/AdditionalSupply">
+		<AdditionalSupply>140</AdditionalSupply>
+	</ModOp>
+		<!-- Furniture Store -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135107']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+		<!-- Typewriters -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135230']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+		<!-- Billiard Tables -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135232']/AdditionalSupply">
+		<AdditionalSupply>140</AdditionalSupply>
+	</ModOp>
+		<!-- Furs -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010209']/AdditionalSupply">
+		<AdditionalSupply>60</AdditionalSupply>
+	</ModOp>
+		<!-- Bear Fur -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '112695']/AdditionalSupply">
+		<AdditionalSupply>70</AdditionalSupply>
+	</ModOp>
+		<!-- Tapestries -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114404']/AdditionalSupply">
+		<AdditionalSupply>70</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>150</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>320</AdditionalSupply>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5388']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5395']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+		<!-- Film Reel -->
+	<ModOp Type="merge" GUID="136407" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5392']/AdditionalSupply">
+		<AdditionalSupply>70</AdditionalSupply>
+	</ModOp>
+	<!-- Skyscraper Additional Pop Level 5 -->
+		<!-- Department Store -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135108']/AdditionalSupply">
+		<AdditionalSupply>240</AdditionalSupply>
+	</ModOp>
+		<!-- Chewing Gum -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135186']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+		<!-- Biscuits -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135229']/AdditionalSupply">
+		<AdditionalSupply>140</AdditionalSupply>
+	</ModOp>
+		<!-- Cognac -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135234']/AdditionalSupply">
+		<AdditionalSupply>140</AdditionalSupply>
+	</ModOp>
+		<!-- Furniture Store -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135107']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+		<!-- Typewriters -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135230']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+		<!-- Billiard Tables -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135232']/AdditionalSupply">
+		<AdditionalSupply>140</AdditionalSupply>
+	</ModOp>
+		<!-- Drug Store -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135109']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Violins -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135233']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Toys -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135231']/AdditionalSupply">
+		<AdditionalSupply>140</AdditionalSupply>
+	</ModOp>
+		<!-- Furs -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010209']/AdditionalSupply">
+		<AdditionalSupply>70</AdditionalSupply>
+	</ModOp>
+		<!-- Bear Fur -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '112695']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Tapestries -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114404']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>160</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>190</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>400</AdditionalSupply>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5388']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5395']/AdditionalSupply">
+		<AdditionalSupply>110</AdditionalSupply>
+	</ModOp>
+		<!-- Film Reel -->
+	<ModOp Type="merge" GUID="136408" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5392']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+	<!-- Skyline Tower Additional Pop -->
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="136409" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120030']/AdditionalSupply">
+		<AdditionalSupply>7840</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="136409" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>3920</AdditionalSupply>
+	</ModOp>
+		<!-- Electricity -->
+	<ModOp Type="merge" GUID="136409" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010354']/AdditionalSupply">
+		<AdditionalSupply>3920</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="136409" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>3920</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="136409" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>980</AdditionalSupply>
+	</ModOp>
+		<!-- Cigars -->
+	<ModOp Type="merge" GUID="136409" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010259']/AdditionalSupply">
+		<AdditionalSupply>980</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="136409" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>980</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="136409" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>1960</AdditionalSupply>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!-- Jornalero Residence -->
+	<ModOp Type="merge" GUID="101254" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>100</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="101254" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>100</ResidentsRequiredForUpgrade>
+	</ModOp>
+	<!-- Hacienda Jornalero Quarters -->
+	<ModOp Type="merge" GUID="24792" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>200</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="24792" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>200</ResidentsRequiredForUpgrade>
+	</ModOp>
+	
+		<!-- Market -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120020']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Hacienda -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '25546']/SupplyWeight">
+		<SupplyWeight>70</SupplyWeight>
+	</ModOp>
+		<!-- Fried Plantains -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120033']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Ponchos -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120043']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Schnapps -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010216']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Hot Sauce -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '25506']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Work Clothes -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010237']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Felt -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120044']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Teff -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114367']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Soccer Balls -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5803']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Beach -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '6265']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Cinema -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5830']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+	
+	<!-- Hacienada Additional Pop -->
+		<!-- Work Clothes -->
+	<ModOp Type="merge" GUID="25742" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010237']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Felt -->
+	<ModOp Type="merge" GUID="25742" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120044']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Teff -->
+	<ModOp Type="merge" GUID="25742" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114367']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="25742" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="25742" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="25742" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!-- Obrero Residence -->
+	<ModOp Type="merge" GUID="101255" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>200</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="101255" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>200</ResidentsRequiredForUpgrade>
+	</ModOp>
+	<!-- Hacienda Obrera Quarters -->
+	<ModOp Type="merge" GUID="24793" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>300</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="24793" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>300</ResidentsRequiredForUpgrade>
+	</ModOp>
+	
+		<!-- Market -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120020']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Hacienda -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '25546']/SupplyWeight">
+		<SupplyWeight>70</SupplyWeight>
+	</ModOp>
+		<!-- Fried Plantains -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120033']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Ponchos -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120043']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Tortillas -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120035']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Hot Sauce -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '25506']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Atole -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '25131']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120032']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Bombins -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120037']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010206']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120030']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Typewriters -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135230']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Illuminated Script -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '117698']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/SupplyWeight">
+		<SupplyWeight>70</SupplyWeight>
+	</ModOp>
+		<!-- Beach -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '6265']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Samba School -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5831']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Scooter -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5391']/SupplyWeight">
+		<SupplyWeight>60</SupplyWeight>
+	</ModOp>
+	
+	<!-- Hacienada Additional Pop -->
+		<!-- Fried Plantains -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120033']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Ponchos -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120043']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Bombins -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120037']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010206']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Tortillas -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120035']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010217']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120030']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Typewriters -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135230']/AdditionalSupply">
+		<AdditionalSupply>70</AdditionalSupply>
+	</ModOp>
+		<!-- Illuminated Script -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '117698']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Souvenirs -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '133532']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Billiard Tables -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135232']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Jewelry -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010250']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Lanterns -->
+	<ModOp Type="merge" GUID="25743" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '117699']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!-- Explorer Shelter -->
+	<ModOp Type="merge" GUID="112091" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>100</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="112091" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>100</ResidentsRequiredForUpgrade>
+	</ModOp>
+	
+		<!-- Canteen -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114890']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Pemmican -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112705']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Oil Lamps -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112702']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010213']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Tallow -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010234']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Hot Sauce -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '25506']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!-- Technician Shelter -->
+	<ModOp Type="merge" GUID="112652" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>200</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="112652" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>200</ResidentsRequiredForUpgrade>
+	</ModOp>
+	
+		<!-- Canteen -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114890']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Pemmican -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112705']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Oil Lamps -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112702']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Post Office -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112693']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010217']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Husky Sleds -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112703']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Rum -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010257']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Dynamite -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010222']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/SupplyWeight">
+		<SupplyWeight>60</SupplyWeight>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/SupplyWeight">
+		<SupplyWeight>100</SupplyWeight>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '6600']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Motor -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5390']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!-- Shepherd Residence -->
+	<ModOp Type="merge" GUID="114436" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>100</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="114436" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>100</ResidentsRequiredForUpgrade>
+	</ModOp>
+	
+		<!-- Market -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120020']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Goat Milk -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114371']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Finery -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114401']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Dried Meat -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114359']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Wanza Timber -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114356']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Grain -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010192']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+		<!-- Ponchos -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120043']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010217']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Hot Sauce -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '25506']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Jam -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133183']/SupplyWeight">
+		<SupplyWeight>10</SupplyWeight>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!-- Elder Residence -->
+	<ModOp Type="merge" GUID="114437" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>200</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="114437" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>200</ResidentsRequiredForUpgrade>
+	</ModOp>
+	
+		<!-- Market -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120020']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Goat Milk -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114371']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Finery -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114401']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Dried Meat -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114359']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Ceramics -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '118724']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Seafood Stew -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114410']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Illuminated Script -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '117698']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Lanterns -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '117699']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Cotton Fabric -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010240']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010206']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Goose Feathers -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112697']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010203']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Herbs -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5383']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Orchid -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5386']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!-- Scholar Residence -->
+	<ModOp Type="merge" GUID="114445" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>1200</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="114445" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>1200</ResidentsRequiredForUpgrade>
+	</ModOp>
+	
+		<!-- University -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010353']/SupplyWeight">
+		<SupplyWeight>120</SupplyWeight>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010217']/SupplyWeight">
+		<SupplyWeight>190</SupplyWeight>
+	</ModOp>
+		<!-- Tailored Suits -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114430']/SupplyWeight">
+		<SupplyWeight>230</SupplyWeight>
+	</ModOp>
+		<!-- Electricity -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010354']/SupplyWeight">
+		<SupplyWeight>120</SupplyWeight>
+	</ModOp>
+		<!-- Seafood Stew -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114410']/SupplyWeight">
+		<SupplyWeight>220</SupplyWeight>
+	</ModOp>
+		<!-- Telephones -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114431']/SupplyWeight">
+		<SupplyWeight>200</SupplyWeight>
+	</ModOp>
+		<!-- Radio Tower -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114425']/SupplyWeight">
+		<SupplyWeight>120</SupplyWeight>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/SupplyWeight">
+		<SupplyWeight>100</SupplyWeight>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/SupplyWeight">
+		<SupplyWeight>150</SupplyWeight>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/SupplyWeight">
+		<SupplyWeight>250</SupplyWeight>
+	</ModOp>
+		<!-- Saltpeter -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010232']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- New World Reports -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '4267']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Arctic Reports -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '4268']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Film Reel -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5392']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5395']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Scooter -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5391']/SupplyWeight">
+		<SupplyWeight>70</SupplyWeight>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!-- Hotel -->
+	<ModOp Type="merge" GUID="601445" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>5000</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="601445" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>5000</ResidentsRequiredForUpgrade>
+	</ModOp>
+	
+		<!-- Tourist Mooring -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133891']/SupplyWeight">
+		<SupplyWeight>450</SupplyWeight>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010213']/SupplyWeight">
+		<SupplyWeight>550</SupplyWeight>
+	</ModOp>
+		<!-- Variety Theatre -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133573']/SupplyWeight">
+		<SupplyWeight>250</SupplyWeight>
+	</ModOp>
+		<!-- Restaurant -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '132751']/SupplyWeight">
+		<SupplyWeight>250</SupplyWeight>
+	</ModOp>
+		<!-- Jam -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133183']/SupplyWeight">
+		<SupplyWeight>350</SupplyWeight>
+	</ModOp>
+		<!-- Café -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '132755']/SupplyWeight">
+		<SupplyWeight>550</SupplyWeight>
+	</ModOp>
+		<!-- Shampoo -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133181']/SupplyWeight">
+		<SupplyWeight>1050</SupplyWeight>
+	</ModOp>
+		<!-- Bar -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '132754']/SupplyWeight">
+		<SupplyWeight>750</SupplyWeight>
+	</ModOp>
+		<!-- The Iron Tower -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '132761']/SupplyWeight">
+		<SupplyWeight>800</SupplyWeight>
+	</ModOp>
+		<!-- Gramophones -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010248']/SupplyWeight">
+		<SupplyWeight>170</SupplyWeight>
+	</ModOp>
+		<!-- Bombins -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120037']/SupplyWeight">
+		<SupplyWeight>150</SupplyWeight>
+	</ModOp>
+		<!-- Leather Boots -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114428']/SupplyWeight">
+		<SupplyWeight>220</SupplyWeight>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '6600']/SupplyWeight">
+		<SupplyWeight>200</SupplyWeight>
+	</ModOp>
+		<!-- Ice Cream -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5382']/SupplyWeight">
+		<SupplyWeight>250</SupplyWeight>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5388']/SupplyWeight">
+		<SupplyWeight>260</SupplyWeight>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!-- Artista Residence -->
+	<ModOp Type="merge" GUID="5405" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>400</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="5405" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>400</ResidentsRequiredForUpgrade>
+	</ModOp>
+	<!-- Hacienda Artista Quarters (FIX) -->
+	<ModOp Type="merge" GUID="6086" Path="/Values/Residence7/ResidentMax">
+		<ResidentMax>500</ResidentMax>
+	</ModOp>
+	<ModOp Type="merge" GUID="6086" Path="/Values/Residence7/ResidentsRequiredForUpgrade">
+		<ResidentsRequiredForUpgrade>500</ResidentsRequiredForUpgrade>
+	</ModOp>
+
+	<!-- HACIENDA ARTISTA QUARTERS (FIX) -->
+	<ModOp Type="merge" GUID="6086" Path="/Values/UpgradeList/DefaultBuff">
+		<DefaultBuff>6088</DefaultBuff>
+	</ModOp>
+
+	<!-- Hacienda (FIX) -->
+	<ModOp Type="addNextSibling" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120035']">
+		<Item>
+			<Product>25546</Product>
+			<SupplyWeight>70</SupplyWeight>
+			<RequiredBuildings>
+				<Item>
+					<RequiredBuilding>6086</RequiredBuilding>
+				</Item>
+			</RequiredBuildings>
+		</Item>
+	</ModOp>
+
+		<!-- Tortillas -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120035']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010206']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120032']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Bombins -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120037']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Soccer Balls -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5803']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '6600']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Jalea -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5381']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Beach -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '6265']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5388']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5395']/SupplyWeight">
+		<SupplyWeight>30</SupplyWeight>
+	</ModOp>
+		<!-- Scooter -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5391']/SupplyWeight">
+		<SupplyWeight>50</SupplyWeight>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010208']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120016']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Billiard Tables -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135232']/SupplyWeight">
+		<SupplyWeight>20</SupplyWeight>
+	</ModOp>
+		<!-- Lanterns -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '117699']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/SupplyWeight">
+		<SupplyWeight>70</SupplyWeight>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/SupplyWeight">
+		<SupplyWeight>120</SupplyWeight>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120030']/SupplyWeight">
+		<SupplyWeight>200</SupplyWeight>
+	</ModOp>
+		<!-- Electricity -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010354']/SupplyWeight">
+		<SupplyWeight>200</SupplyWeight>
+	</ModOp>
+		<!-- Jewelry -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010250']/SupplyWeight">
+		<SupplyWeight>60</SupplyWeight>
+	</ModOp>
+		<!-- Souvenirs -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133532']/SupplyWeight">
+		<SupplyWeight>40</SupplyWeight>
+	</ModOp>
+
+	<!-- Hacienada Additional Pop -->
+		<!-- Bombins -->
+	<ModOp Type="merge" GUID="6088" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120037']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="6088" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="6088" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010206']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="6088" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>40</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="6088" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="6088" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '2524']/AdditionalSupply">
+		<AdditionalSupply>80</AdditionalSupply>
+	</ModOp>
+		<!-- Jalea -->
+	<ModOp Type="merge" GUID="6088" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5381']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Ice Cream -->
+	<ModOp Type="merge" GUID="6088" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5382']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Soccer Balls -->
+	<ModOp Type="merge" GUID="6088" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5803']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="6088" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5388']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Scooter -->
+	<ModOp Type="merge" GUID="6088" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5391']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="6088" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5395']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+	
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!-- - Town Hall Items and Buffs with Bonus Residents attribute - -->
+	
+	<!-- Rabies Vaccine -->
+		<!-- Fish -->
+	<ModOp Type="merge" GUID="191912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010200']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="191912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010213']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="191912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010217']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="191912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010353']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="191912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="191912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="191912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="191912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="191912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Fried Plantains -->
+	<ModOp Type="merge" GUID="191912" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120033']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Chief George Doughty, Smouldering Hero -->
+		<!-- Market -->
+	<ModOp Type="merge" GUID="190658" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120020']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="190658" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010213']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="190658" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010206']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="190658" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010353']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="190658" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120030']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="190658" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="190658" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="190658" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="190658" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Saint D'Artois, Vision of the Valley -->
+		<!-- Fish -->
+	<ModOp Type="merge" GUID="190193" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010200']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="190193" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010213']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="190193" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010217']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="190193" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010353']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="190193" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="190193" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="190193" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="190193" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="190193" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Fried Plantains -->
+	<ModOp Type="merge" GUID="190193" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120033']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Louis P. Hecate, Arm-Puncturing Pioneer -->
+		<!-- Market -->
+	<ModOp Type="merge" GUID="190724" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120020']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="190724" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010213']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="190724" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010206']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="190724" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010353']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="190724" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120030']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="190724" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="190724" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="190724" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="190724" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="190724" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5395']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Jakob Sokow, The Charitable Banker -->
+		<!-- Market -->
+	<ModOp Type="merge" GUID="191579" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120020']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="191579" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010213']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="191579" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010206']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="191579" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010353']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="191579" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120030']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="191579" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="191579" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="191579" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="191579" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="191579" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '5395']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+	
+	<!-- The Withdrawal Amendment -->
+		<!-- Fish -->
+	<ModOp Type="merge" GUID="191815" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010200']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="191815" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010213']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="191815" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010217']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="191815" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010353']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="191815" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="191815" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="191815" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="191815" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="191815" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Fried Plantains -->
+	<ModOp Type="merge" GUID="191815" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120033']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Contraception Regulation -->
+		<!-- Fish -->
+	<ModOp Type="merge" GUID="191816" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010200']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="191816" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010213']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="191816" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010217']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="191816" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010353']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="191816" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="191816" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="191816" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="191816" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="191816" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Fried Plantains -->
+	<ModOp Type="merge" GUID="191816" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120033']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="191816" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '6600']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Papal Paper of Prenatal Preservation -->
+		<!-- Fish -->
+	<ModOp Type="merge" GUID="191817" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010200']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="191817" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010213']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="191817" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010217']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="191817" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010353']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="191817" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="191817" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="191817" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="191817" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="191817" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Fried Plantains -->
+	<ModOp Type="merge" GUID="191817" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120033']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="191817" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '6600']/AdditionalSupply">
+		<AdditionalSupply>30</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Pietro Jonah Proud, The Philosopher of the Public Good -->
+		<!-- Market -->
+	<ModOp Type="merge" GUID="111180" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120020']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="111180" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010213']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="111180" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010206']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="111180" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010353']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="111180" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120030']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="111180" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="111180" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="111180" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="111180" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Aesop, The Fabled Storyteller -->
+		<!-- Market -->
+	<ModOp Type="merge" GUID="125132" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120020']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Illuminated Script -->
+	<ModOp Type="merge" GUID="125132" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '117698']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Mulatu The Musical Maestro -->
+		<!-- Musicians' Court -->
+	<ModOp Type="merge" GUID="125134" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114361']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Clay Pipe -->
+	<ModOp Type="merge" GUID="125134" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114414']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Amazing Fashion Designer -->
+		<!-- Tailored Suits -->
+	<ModOp Type="merge" GUID="129022" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114430']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+		<!-- Leather Boots -->
+	<ModOp Type="merge" GUID="129022" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114428']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Lineman -->
+		<!-- Telephones -->
+	<ModOp Type="merge" GUID="125140" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114431']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+		<!-- Radio Tower -->
+	<ModOp Type="merge" GUID="125140" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114425']/AdditionalSupply">
+		<AdditionalSupply>90</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Dean the Dean of Deansville University -->
+		<!-- University -->
+	<ModOp Type="merge" GUID="125143" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010353']/AdditionalSupply">
+		<AdditionalSupply>240</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Amadi Ilga, Ketema's Chief Civil Engineer  -->
+		<!-- Finery -->
+	<ModOp Type="merge" GUID="121004" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114401']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+		<!-- Illuminated Script -->
+	<ModOp Type="merge" GUID="121004" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '117698']/AdditionalSupply">
+		<AdditionalSupply>20</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Brioche Royale -->
+		<!-- Fish -->
+	<ModOp Type="merge" GUID="133929" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010200']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="133929" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010213']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="133929" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010217']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="133929" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010353']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="133929" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="133929" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="133929" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="133929" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="133929" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Trifle Tower -->
+		<!-- Fish -->
+	<ModOp Type="merge" GUID="133934" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010200']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="133934" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010213']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="133934" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010217']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="133934" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010353']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="133934" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="133934" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="133934" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="133934" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="133934" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Lady Marmelade -->
+		<!-- Fish -->
+	<ModOp Type="merge" GUID="133935" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010200']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="133935" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010213']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="133935" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010217']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="133935" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010353']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="133935" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="133935" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="133935" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="133935" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="133935" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Age of Exploration -->
+		<!-- Fish -->
+	<ModOp Type="merge" GUID="133936" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010200']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="133936" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010213']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="133936" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010217']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="133936" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010353']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="133936" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="133936" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="133936" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="133936" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="133936" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Homard sur Lit de Terroir -->
+		<!-- Fish -->
+	<ModOp Type="merge" GUID="133937" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010200']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="133937" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010213']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="133937" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010217']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- University -->
+	<ModOp Type="merge" GUID="133937" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010353']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="133937" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120032']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="133937" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010208']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="133937" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '120016']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="133937" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010225']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="133937" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010258']/AdditionalSupply">
+		<AdditionalSupply>10</AdditionalSupply>
+	</ModOp>
+		<!-- Seafood Stew -->
+	<ModOp Type="merge" GUID="133937" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '114410']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Mr. Bertram, Hotel Manager -->
+	<ModOp Type="merge" GUID="136668" Path="/Values/PopulationUpgrade/ResidentsUpgrade/Value">
+		<Value>1600</Value>
+	</ModOp>
+		<!-- Tourist Mooring -->
+	<ModOp Type="merge" GUID="136668" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '133891']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="136668" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '1010213']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Variety Theatre -->
+	<ModOp Type="merge" GUID="136668" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '133573']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Restaurant -->
+	<ModOp Type="merge" GUID="136668" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '132751']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Jam -->
+	<ModOp Type="merge" GUID="136668" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '133183']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Café -->
+	<ModOp Type="merge" GUID="136668" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '132755']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Shampoo -->
+	<ModOp Type="merge" GUID="136668" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '133181']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+		<!-- Bar -->
+	<ModOp Type="merge" GUID="136668" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '132754']/AdditionalSupply">
+		<AdditionalSupply>200</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Blue Skies Maid  -->
+	<ModOp Type="merge" GUID="137798" Path="/Values/PopulationUpgrade/ResidentsUpgrade/Value">
+		<Value>450</Value>
+	</ModOp>
+		<!-- Biscuits -->
+	<ModOp Type="merge" GUID="137798" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135229']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Typewriters -->
+	<ModOp Type="merge" GUID="137798" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135230']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Cognac -->
+	<ModOp Type="merge" GUID="137798" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135234']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Violins -->
+	<ModOp Type="merge" GUID="137798" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135233']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Billiard Tables -->
+	<ModOp Type="merge" GUID="137798" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135232']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Toys -->
+	<ModOp Type="merge" GUID="137798" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135231']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Department Store -->
+	<ModOp Type="merge" GUID="137798" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135108']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Furniture Store -->
+	<ModOp Type="merge" GUID="137798" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135107']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+		<!-- Drug Store -->
+	<ModOp Type="merge" GUID="137798" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '135109']/AdditionalSupply">
+		<AdditionalSupply>50</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Spam Mail -->
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="101367" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>-40</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Reunion Rush -->
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="101369" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>-20</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="101369" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>-30</AdditionalSupply>
+	</ModOp>
+	
+	<!-- Family Business -->
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="102273" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '535']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="102273" Path="/Values/PopulationUpgrade/InputBenefitModifier/Item[Product = '536']/AdditionalSupply">
+		<AdditionalSupply>100</AdditionalSupply>
+	</ModOp>
+
+	<!-- ========================================================================= -->
+	
+</ModOps>

@@ -1,0 +1,984 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModOps>
+	
+	<!-- ========================================================================= -->
+	<!--Farmers-->
+		<!-- Fish -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010200']/Amount">
+		<Amount>0.0004166667</Amount>
+	</ModOp>
+		<!-- Schnapps -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010216']/Amount">
+		<Amount>0.000555556</Amount>
+	</ModOp>
+		<!-- Work Clothes -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010237']/Amount">
+		<Amount>0.000512821</Amount>
+	</ModOp>
+		<!-- Flour -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010235']/Amount">
+		<Amount>0.0004</Amount>
+	</ModOp>
+		<!-- Sugar -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010239']/Amount">
+		<Amount>0.0002</Amount>
+	</ModOp>
+		<!-- Jam -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133183']/Amount">
+		<Amount>0.0003333333</Amount>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/Amount">
+		<Amount>0.000266667</Amount>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/Amount">
+		<Amount>0.000133333</Amount>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/Amount">
+		<Amount>5E-05</Amount>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010203']/Amount">
+		<Amount>5.833333E-05</Amount>
+	</ModOp>
+		<!-- Herbs -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5383']/Amount">
+		<Amount>0.0002833333</Amount>
+	</ModOp>
+		<!-- Hibiscus Petals -->
+	<ModOp Type="merge" GUID="15000000" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114364']/Amount">
+		<Amount>0.0001666667</Amount>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!--Workers-->
+		<!-- Fish -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010200']/Amount">
+		<Amount>0.0008333334</Amount>
+	</ModOp>
+		<!-- Schnapps -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010216']/Amount">
+		<Amount>0.001111112</Amount>
+	</ModOp>
+		<!-- Work Clothes -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010237']/Amount">
+		<Amount>0.001025642</Amount>
+	</ModOp>
+		<!-- Sausages -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010238']/Amount">
+		<Amount>0.000333334</Amount>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010213']/Amount">
+		<Amount>0.00030303</Amount>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010203']/Amount">
+		<Amount>0.000138889</Amount>
+	</ModOp>
+		<!-- Beer -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010214']/Amount">
+		<Amount>0.00025641</Amount>
+	</ModOp>
+		<!-- Rum -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010257']/Amount">
+		<Amount>0.0003333333</Amount>
+	</ModOp>
+		<!-- Penny Farthings -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010245']/Amount">
+		<Amount>0.0001333333</Amount>
+	</ModOp>
+		<!-- Hot Sauce -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '25506']/Amount">
+		<Amount>0.0001666667</Amount>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/Amount">
+		<Amount>0.000541667</Amount>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/Amount">
+		<Amount>0.000133333</Amount>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/Amount">
+		<Amount>0.000125</Amount>
+	</ModOp>
+		<!-- Beef -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010193']/Amount">
+		<Amount>0.0002083333</Amount>
+	</ModOp>
+		<!-- Soccer Balls -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5803']/Amount">
+		<Amount>0.0001666667</Amount>
+	</ModOp>
+		<!-- Clay Pipe -->
+	<ModOp Type="merge" GUID="15000001" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114414']/Amount">
+		<Amount>0.0001111111</Amount>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!--Artisans-->
+		<!-- Sausages -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010238']/Amount">
+		<Amount>0.000666667</Amount>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010213']/Amount">
+		<Amount>0.000606061</Amount>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010203']/Amount">
+		<Amount>0.000277778</Amount>
+	</ModOp>
+		<!-- Beer -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010214']/Amount">
+		<Amount>0.000512821</Amount>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010217']/Amount">
+		<Amount>0.00017094</Amount>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010206']/Amount">
+		<Amount>0.00047619</Amount>
+	</ModOp>
+		<!-- Rum -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010257']/Amount">
+		<Amount>0.000952381</Amount>
+	</ModOp>
+		<!-- Fur Coats -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010247']/Amount">
+		<Amount>0.000444444</Amount>
+	</ModOp>
+		<!-- Wool -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010197']/Amount">
+		<Amount>0.001</Amount>
+	</ModOp>
+		<!-- Clay -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010201']/Amount">
+		<Amount>0.001333333</Amount>
+	</ModOp>
+		<!-- Paper -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '117702']/Amount">
+		<Amount>0.0005</Amount>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/Amount">
+		<Amount>0.000766667</Amount>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/Amount">
+		<Amount>0.000183333</Amount>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/Amount">
+		<Amount>0.000166667</Amount>
+	</ModOp>
+		<!-- Soccer Balls -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5803']/Amount">
+		<Amount>0.0003333333</Amount>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5388']/Amount">
+		<Amount>0.000125</Amount>
+	</ModOp>
+		<!-- Scooter -->
+	<ModOp Type="merge" GUID="15000002" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5391']/Amount">
+		<Amount>0.0001083333</Amount>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!--Engineers-->
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010217']/Amount">
+		<Amount>0.00034188</Amount>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010206']/Amount">
+		<Amount>0.000952381</Amount>
+	</ModOp>
+		<!-- Rum -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010257']/Amount">
+		<Amount>0.001904762</Amount>
+	</ModOp>
+		<!-- Fur Coats -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010247']/Amount">
+		<Amount>0.000888889</Amount>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120030']/Amount">
+		<Amount>0.000148148</Amount>
+	</ModOp>
+		<!-- Penny Farthings -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010245']/Amount">
+		<Amount>0.000416667</Amount>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120032']/Amount">
+		<Amount>0.000784314</Amount>
+	</ModOp>
+		<!-- Pocket Watches -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010246']/Amount">
+		<Amount>0.000130719</Amount>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010208']/Amount">
+		<Amount>0.000208333</Amount>
+	</ModOp>
+		<!-- Chewing Gum -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135186']/Amount">
+		<Amount>8.66667E-05</Amount>
+	</ModOp>
+		<!-- Typewriters -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135230']/Amount">
+		<Amount>0.000133333</Amount>
+	</ModOp>
+		<!-- Violins -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135233']/Amount">
+		<Amount>5E-05</Amount>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010203']/Amount">
+		<Amount>0.0005208334</Amount>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010258']/Amount">
+		<Amount>0.00025</Amount>
+	</ModOp>
+		<!-- Shampoo -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133181']/Amount">
+		<Amount>0.0003</Amount>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/Amount">
+		<Amount>0.001041667</Amount>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/Amount">
+		<Amount>0.00025</Amount>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/Amount">
+		<Amount>0.0002</Amount>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '6600']/Amount">
+		<Amount>0.00025</Amount>
+	</ModOp>
+		<!-- Ice Cream -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5382']/Amount">
+		<Amount>0.0003333333</Amount>
+	</ModOp>
+		<!-- Medicine -->
+	<ModOp Type="merge" GUID="15000003" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5397']/Amount">
+		<Amount>0.0002777778</Amount>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!--Investors-->
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120030']/Amount">
+		<Amount>0.000296296</Amount>
+	</ModOp>
+		<!-- Penny Farthings -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010245']/Amount">
+		<Amount>0.000833333</Amount>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120032']/Amount">
+		<Amount>0.001568627</Amount>
+	</ModOp>
+		<!-- Pocket Watches -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010246']/Amount">
+		<Amount>0.000261438</Amount>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010208']/Amount">
+		<Amount>0.000416667</Amount>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120016']/Amount">
+		<Amount>0.000392</Amount>
+	</ModOp>
+		<!-- Cigars -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010259']/Amount">
+		<Amount>0.00037037</Amount>
+	</ModOp>
+		<!-- Chocolate -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010258']/Amount">
+		<Amount>0.000888889</Amount>
+	</ModOp>
+		<!-- Jewelry -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010250']/Amount">
+		<Amount>0.000350877</Amount>
+	</ModOp>
+		<!-- Gramophones -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010248']/Amount">
+		<Amount>8.77E-05</Amount>
+	</ModOp>
+		<!-- Steam Carriages -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010225']/Amount">
+		<Amount>0.000111111</Amount>
+	</ModOp>
+		<!-- Chewing Gum -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135186']/Amount">
+		<Amount>9.16667E-05</Amount>
+	</ModOp>
+		<!-- Biscuits -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135229']/Amount">
+		<Amount>0.000446667</Amount>
+	</ModOp>
+		<!-- Cognac -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135234']/Amount">
+		<Amount>0.000183333</Amount>
+	</ModOp>
+		<!-- Typewriters -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135230']/Amount">
+		<Amount>0.000233333</Amount>
+	</ModOp>
+		<!-- Billiard Tables -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135232']/Amount">
+		<Amount>0.000216667</Amount>
+	</ModOp>
+		<!-- Violins -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135233']/Amount">
+		<Amount>5.3E-05</Amount>
+	</ModOp>
+		<!-- Toys -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135231']/Amount">
+		<Amount>9.33333E-05</Amount>
+	</ModOp>
+		<!-- Furs -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010209']/Amount">
+		<Amount>0.0002666667</Amount>
+	</ModOp>
+		<!-- Bear Fur -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112695']/Amount">
+		<Amount>0.0001083333</Amount>
+	</ModOp>
+		<!-- Tapestries -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114404']/Amount">
+		<Amount>0.0002666667</Amount>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/Amount">
+		<Amount>0.001291667</Amount>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/Amount">
+		<Amount>0.000316667</Amount>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/Amount">
+		<Amount>0.00025</Amount>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5388']/Amount">
+		<Amount>0.0002083333</Amount>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5395']/Amount">
+		<Amount>0.00025</Amount>
+	</ModOp>
+		<!-- Film Reel -->
+	<ModOp Type="merge" GUID="15000004" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5392']/Amount">
+		<Amount>0.0001875</Amount>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!--Jornaleros-->
+		<!-- Fried Plantains -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120033']/Amount">
+		<Amount>0.00047619</Amount>
+	</ModOp>
+		<!-- Rum -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010257']/Amount">
+		<Amount>0.000238095</Amount>
+	</ModOp>
+		<!-- Ponchos -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120043']/Amount">
+		<Amount>0.000416667</Amount>
+	</ModOp>
+		<!-- Schnapps -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010216']/Amount">
+		<Amount>0.000555556</Amount>
+	</ModOp>
+		<!-- Hot Sauce -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '25506']/Amount">
+		<Amount>0.00041667</Amount>
+	</ModOp>
+		<!-- Work Clothes -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010237']/Amount">
+		<Amount>0.00025</Amount>
+	</ModOp>
+		<!-- Felt -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120044']/Amount">
+		<Amount>0.000375</Amount>
+	</ModOp>
+		<!-- Teff -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114367']/Amount">
+		<Amount>0.0002833333</Amount>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/Amount">
+		<Amount>0.000266667</Amount>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/Amount">
+		<Amount>5.833333E-05</Amount>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/Amount">
+		<Amount>5E-05</Amount>
+	</ModOp>
+		<!-- Soccer Balls -->
+	<ModOp Type="merge" GUID="15000005" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5803']/Amount">
+		<Amount>0.0003333333</Amount>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!--Obreros-->
+		<!-- Fried Plantains -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120033']/Amount">
+		<Amount>0.000952381</Amount>
+	</ModOp>
+		<!-- Rum -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010257']/Amount">
+		<Amount>0.000476191</Amount>
+	</ModOp>
+		<!-- Ponchos -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120043']/Amount">
+		<Amount>0.000833333</Amount>
+	</ModOp>
+		<!-- Tortillas -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120035']/Amount">
+		<Amount>0.00047619</Amount>
+	</ModOp>
+		<!-- Hot Sauce -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '25506']/Amount">
+		<Amount>0.000476191</Amount>
+	</ModOp>
+		<!-- Atole -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '25131']/Amount">
+		<Amount>0.000952381</Amount>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120032']/Amount">
+		<Amount>0.000196079</Amount>
+	</ModOp>
+		<!-- Bombins -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120037']/Amount">
+		<Amount>0.000444444</Amount>
+	</ModOp>
+		<!-- Beer -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010214']/Amount">
+		<Amount>0.000444444</Amount>
+	</ModOp>
+		<!-- Cigars -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010259']/Amount">
+		<Amount>0.000185185</Amount>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010206']/Amount">
+		<Amount>0.000416667</Amount>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120030']/Amount">
+		<Amount>0.0001333333</Amount>
+	</ModOp>
+		<!-- Typewriters -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135230']/Amount">
+		<Amount>0.0001333333</Amount>
+	</ModOp>
+		<!-- Illuminated Script -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '117698']/Amount">
+		<Amount>0.000125</Amount>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/Amount">
+		<Amount>0.000766667</Amount>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/Amount">
+		<Amount>0.000183333</Amount>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/Amount">
+		<Amount>0.000166667</Amount>
+	</ModOp>
+		<!-- Scooter -->
+	<ModOp Type="merge" GUID="15000006" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5391']/Amount">
+		<Amount>8.333333E-05</Amount>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!--Explorers-->
+		<!-- Pemmican -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112705']/Amount">
+		<Amount>0.0002</Amount>
+	</ModOp>
+		<!-- Oil Lamps -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112702']/Amount">
+		<Amount>0.0001</Amount>
+	</ModOp>
+		<!-- Sleeping Bags -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112701']/Amount">
+		<Amount>0.00015</Amount>
+	</ModOp>
+		<!-- Schnapps -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010216']/Amount">
+		<Amount>0.00025</Amount>
+	</ModOp>
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010213']/Amount">
+		<Amount>0.0001666667</Amount>
+	</ModOp>
+		<!-- Tallow -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010234']/Amount">
+		<Amount>0.0005</Amount>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/Amount">
+		<Amount>0.00025</Amount>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/Amount">
+		<Amount>8.333333E-05</Amount>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/Amount">
+		<Amount>8.333333E-05</Amount>
+	</ModOp>
+		<!-- Hot Sauce -->
+	<ModOp Type="merge" GUID="112642" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '25506']/Amount">
+		<Amount>0.0003333333</Amount>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!--Technicians-->
+		<!-- Pemmican -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112705']/Amount">
+		<Amount>0.0004</Amount>
+	</ModOp>
+		<!-- Oil Lamps -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112702']/Amount">
+		<Amount>0.0002</Amount>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010217']/Amount">
+		<Amount>0.0002</Amount>
+	</ModOp>
+		<!-- Husky Sleds -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112703']/Amount">
+		<Amount>0.0003</Amount>
+	</ModOp>
+		<!-- Sleeping Bags -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112701']/Amount">
+		<Amount>0.0003</Amount>
+	</ModOp>
+		<!-- Schnapps -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010216']/Amount">
+		<Amount>0.0005</Amount>
+	</ModOp>
+		<!-- Parkas -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112700']/Amount">
+		<Amount>0.0004</Amount>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120032']/Amount">
+		<Amount>0.0004</Amount>
+	</ModOp>
+		<!-- Rum -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010257']/Amount">
+		<Amount>0.0005</Amount>
+	</ModOp>
+		<!-- Dynamite -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010222']/Amount">
+		<Amount>0.0001</Amount>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/Amount">
+		<Amount>0.0005</Amount>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/Amount">
+		<Amount>0.000166667</Amount>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/Amount">
+		<Amount>0.000166667</Amount>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '6600']/Amount">
+		<Amount>0.0002333333</Amount>
+	</ModOp>
+		<!-- Motor -->
+	<ModOp Type="merge" GUID="112643" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5390']/Amount">
+		<Amount>0.00025</Amount>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!--Shepherds-->
+		<!-- Goat Milk -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114371']/Amount">
+		<Amount>0.0005</Amount>
+	</ModOp>
+		<!-- Finery -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114401']/Amount">
+		<Amount>0.00025</Amount>
+	</ModOp>
+		<!-- Dried Meat -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114359']/Amount">
+		<Amount>0.00035</Amount>
+	</ModOp>
+		<!-- Hibiscus Tea -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114390']/Amount">
+		<Amount>0.0002</Amount>
+	</ModOp>
+		<!-- Wanza Timber -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114356']/Amount">
+		<Amount>0.0006666667</Amount>
+	</ModOp>
+		<!-- Grain -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010192']/Amount">
+		<Amount>0.0001458333</Amount>
+	</ModOp>
+		<!-- Ponchos -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120043']/Amount">
+		<Amount>0.0005333333</Amount>
+	</ModOp>
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010217']/Amount">
+		<Amount>0.0001666667</Amount>
+	</ModOp>
+		<!-- Hot Sauce -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '25506']/Amount">
+		<Amount>8.333333E-05</Amount>
+	</ModOp>
+		<!-- Jam -->
+	<ModOp Type="merge" GUID="114329" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133183']/Amount">
+		<Amount>0.00025</Amount>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!--Elders-->
+		<!-- Goat Milk -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114371']/Amount">
+		<Amount>0.001</Amount>
+	</ModOp>
+		<!-- Finery -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114401']/Amount">
+		<Amount>0.0005</Amount>
+	</ModOp>
+		<!-- Dried Meat -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114359']/Amount">
+		<Amount>0.0007</Amount>
+	</ModOp>
+		<!-- Hibiscus Tea -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114390']/Amount">
+		<Amount>0.0004</Amount>
+	</ModOp>
+		<!-- Ceramics -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '118724']/Amount">
+		<Amount>0.0004</Amount>
+	</ModOp>
+		<!-- Tapestries -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114404']/Amount">
+		<Amount>0.00035</Amount>
+	</ModOp>
+		<!-- Seafood Stew -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114410']/Amount">
+		<Amount>0.00037</Amount>
+	</ModOp>
+		<!-- Clay Pipe -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114414']/Amount">
+		<Amount>0.00015</Amount>
+	</ModOp>
+		<!-- Illuminated Script -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '117698']/Amount">
+		<Amount>0.00018</Amount>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120030']/Amount">
+		<Amount>0.00012</Amount>
+	</ModOp>
+		<!-- Lanterns -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '117699']/Amount">
+		<Amount>0.0003</Amount>
+	</ModOp>
+		<!-- Cotton Fabric -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010240']/Amount">
+		<Amount>0.001</Amount>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010206']/Amount">
+		<Amount>0.0003</Amount>
+	</ModOp>
+		<!-- Goose Feathers -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '112697']/Amount">
+		<Amount>8.333333E-05</Amount>
+	</ModOp>
+		<!-- Soap -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010203']/Amount">
+		<Amount>0.0001666667</Amount>
+	</ModOp>
+		<!-- Herbs -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5383']/Amount">
+		<Amount>0.001083333</Amount>
+	</ModOp>
+		<!-- Orchid -->
+	<ModOp Type="merge" GUID="114330" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5386']/Amount">
+		<Amount>0.0008333334</Amount>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!--Scholars-->
+		<!-- Canned Food -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010217']/Amount">
+		<Amount>0.001</Amount>
+	</ModOp>
+		<!-- Leather Boots -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114428']/Amount">
+		<Amount>0.002</Amount>
+	</ModOp>
+		<!-- Rum -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010257']/Amount">
+		<Amount>0.0008</Amount>
+	</ModOp>
+		<!-- Tailored Suits -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114430']/Amount">
+		<Amount>0.00275</Amount>
+	</ModOp>
+		<!-- Bombins -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120037']/Amount">
+		<Amount>0.0008</Amount>
+	</ModOp>
+		<!-- Hibiscus Tea -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114390']/Amount">
+		<Amount>0.00175</Amount>
+	</ModOp>
+		<!-- Seafood Stew -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114410']/Amount">
+		<Amount>0.0015</Amount>
+	</ModOp>
+		<!-- Tapestries -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114404']/Amount">
+		<Amount>0.00125</Amount>
+	</ModOp>
+		<!-- Clay Pipe -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114414']/Amount">
+		<Amount>0.00075</Amount>
+	</ModOp>
+		<!-- Telephones -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114431']/Amount">
+		<Amount>0.0015</Amount>
+	</ModOp>
+		<!-- Gramophones -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010248']/Amount">
+		<Amount>0.0007</Amount>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/Amount">
+		<Amount>0.003</Amount>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/Amount">
+		<Amount>0.0015</Amount>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/Amount">
+		<Amount>0.0015</Amount>
+	</ModOp>
+		<!-- Saltpeter -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010232']/Amount">
+		<Amount>0.0001833333</Amount>
+	</ModOp>
+		<!-- New World Reports -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '4267']/Amount">
+		<Amount>0.000666667</Amount>
+	</ModOp>
+		<!-- Arctic Reports -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '4268']/Amount">
+		<Amount>0.000666667</Amount>
+	</ModOp>
+		<!-- Film Reel -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5392']/Amount">
+		<Amount>0.0002083333</Amount>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5395']/Amount">
+		<Amount>0.0001666667</Amount>
+	</ModOp>
+		<!-- Scooter -->
+	<ModOp Type="merge" GUID="118745" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5391']/Amount">
+		<Amount>0.0002083333</Amount>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!--Tourists-->
+		<!-- Bread -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010213']/Amount">
+		<Amount>0.008333333</Amount>
+	</ModOp>
+		<!-- Jam -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133183']/Amount">
+		<Amount>0.01666667</Amount>
+	</ModOp>
+		<!-- Shampoo -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133181']/Amount">
+		<Amount>0.008333333</Amount>
+	</ModOp>
+		<!-- Fur Coats -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010247']/Amount">
+		<Amount>0.01666667</Amount>
+	</ModOp>
+		<!-- Jewelry -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010250']/Amount">
+		<Amount>0.01666667</Amount>
+	</ModOp>
+		<!-- Lemonade -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133185']/Amount">
+		<Amount>0.01666667</Amount>
+	</ModOp>
+		<!-- Souvenirs -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133532']/Amount">
+		<Amount>0.03333333</Amount>
+	</ModOp>
+		<!-- Gramophones -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010248']/Amount">
+		<Amount>0.001</Amount>
+	</ModOp>
+		<!-- Bombins -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120037']/Amount">
+		<Amount>0.00325</Amount>
+	</ModOp>
+		<!-- Leather Boots -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '114428']/Amount">
+		<Amount>0.0007083333</Amount>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '6600']/Amount">
+		<Amount>0.002866667</Amount>
+	</ModOp>
+		<!-- Ice Cream -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5382']/Amount">
+		<Amount>0.001666667</Amount>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="601379" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5388']/Amount">
+		<Amount>0.0009583333</Amount>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+	<!-- ========================================================================= -->
+	<!--Artista-->
+		<!-- Tortillas -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120035']/Amount">
+		<Amount>0.00047619</Amount>
+	</ModOp>
+		<!-- Sewing Machines -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010206']/Amount">
+		<Amount>0.000416667</Amount>
+	</ModOp>
+		<!-- Coffee -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120032']/Amount">
+		<Amount>0.000196079</Amount>
+	</ModOp>
+		<!-- Bombins -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120037']/Amount">
+		<Amount>0.000444444</Amount>
+	</ModOp>
+		<!-- Beer -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010214']/Amount">
+		<Amount>0.000888888</Amount>
+	</ModOp>
+		<!-- Cigars -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010259']/Amount">
+		<Amount>0.000185185</Amount>
+	</ModOp>
+		<!-- Soccer Balls -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5803']/Amount">
+		<Amount>0.000416667</Amount>
+	</ModOp>
+		<!-- Mezcal -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '6600']/Amount">
+		<Amount>0.000952381</Amount>
+	</ModOp>
+		<!-- Jalea -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5381']/Amount">
+		<Amount>0.00055</Amount>
+	</ModOp>
+		<!-- Ice Cream -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5382']/Amount">
+		<Amount>8.99E-05</Amount>
+	</ModOp>
+		<!-- Perfumes -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5388']/Amount">
+		<Amount>0.000833333</Amount>
+	</ModOp>
+		<!-- Fans -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5395']/Amount">
+		<Amount>5.2E-05</Amount>
+	</ModOp>
+		<!-- Scooter -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '5391']/Amount">
+		<Amount>2.898E-05</Amount>
+	</ModOp>
+		<!-- Light Bulbs -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010208']/Amount">
+		<Amount>0.0003333333</Amount>
+	</ModOp>
+		<!-- Champagne -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120016']/Amount">
+		<Amount>0.0003</Amount>
+	</ModOp>
+		<!-- Billiard Tables -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '135232']/Amount">
+		<Amount>0.000125</Amount>
+	</ModOp>
+		<!-- Lanterns -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '117699']/Amount">
+		<Amount>0.0003</Amount>
+	</ModOp>
+		<!-- Local Mail -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '535']/Amount">
+		<Amount>0.00125</Amount>
+	</ModOp>
+		<!-- Regional Mail -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '536']/Amount">
+		<Amount>0.000316667</Amount>
+	</ModOp>
+		<!-- Overseas Mail -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '2524']/Amount">
+		<Amount>0.00025</Amount>
+	</ModOp>
+		<!-- Spectacles -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '120030']/Amount">
+		<Amount>0.000296296</Amount>
+	</ModOp>
+		<!-- Jewelry -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '1010250']/Amount">
+		<Amount>0.0003333333</Amount>
+	</ModOp>
+		<!-- Souvenirs -->
+	<ModOp Type="merge" GUID="5403" Path="/Values/PopulationLevel7/PopulationInputs/Item[Product = '133532']/Amount">
+		<Amount>0.0003333333</Amount>
+	</ModOp>
+	<!-- ========================================================================= -->
+	
+</ModOps>
