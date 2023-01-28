@@ -1,0 +1,102 @@
+<ModOps>
+    <!-- 小型贸易站,空中贸易站一阶段 -->
+    <ModOp Type="merge" GUID="1010540,1010517" Path="/Values">
+        <Warehouse>
+            <WarehouseStorage>
+                <StorageMax>10000</StorageMax>
+            </WarehouseStorage>
+        </Warehouse>
+    </ModOp>
+    <!-- 中型贸易站,空中贸易站二阶段 -->
+    <ModOp Type="merge" GUID="100514,100510" Path="/Values">
+        <Warehouse>
+            <WarehouseStorage>
+                <StorageMax>20000</StorageMax>
+            </WarehouseStorage>
+        </Warehouse>
+    </ModOp>
+    <!-- 大型贸易站,空中贸易站三阶段-->
+    <ModOp Type="merge" GUID="100515,100511" Path="/Values">
+        <Warehouse>
+            <WarehouseStorage>
+                <StorageMax>40000</StorageMax>
+            </WarehouseStorage>
+        </Warehouse>
+    </ModOp>
+    <!-- 豪华贸易站 -->
+    <ModOp Type="merge" GUID="269879,269867" Path="/Values">
+        <Warehouse>
+            <WarehouseStorage>
+                <StorageMax>80000</StorageMax>
+            </WarehouseStorage>
+        </Warehouse>
+    </ModOp>
+    <!-- 库房,庄园库房,港湾库房 -->
+    <ModOp Type="merge" GUID="1010519,601463,24775" Path="/Values">
+        <Warehouse>
+            <WarehouseStorage>
+                <StorageMax>0</StorageMax>
+            </WarehouseStorage>
+        </Warehouse>
+    </ModOp>
+
+
+    <!-- 小型油港 -->
+    <ModOp Type="merge" GUID="100783" Path="/Values">
+        <Warehouse>
+            <WarehouseStorage>
+                <StorageMax>80000</StorageMax>
+            </WarehouseStorage>
+        </Warehouse>
+    </ModOp>
+    <!-- 中型油港 -->
+    <ModOp Type="merge" GUID="101403" Path="/Values">
+        <Warehouse>
+            <WarehouseStorage>
+                <StorageMax>160000</StorageMax>
+            </WarehouseStorage>
+        </Warehouse>
+    </ModOp>
+    <!-- 大型油港 -->
+    <ModOp Type="merge" GUID="101404" Path="/Values">
+        <Warehouse>
+            <WarehouseStorage>
+                <StorageMax>320000</StorageMax>
+            </WarehouseStorage>
+        </Warehouse>
+    </ModOp>
+    <!-- 豪华油港 -->
+    <ModOp Type="merge" GUID="119259" Path="/Values">
+        <Warehouse>
+            <WarehouseStorage>
+                <StorageMax>640000</StorageMax>
+            </WarehouseStorage>
+        </Warehouse>
+    </ModOp>
+    <!-- 储油槽 -->
+    <ModOp Type="merge" GUID="100784" Path="/Values">
+        <Warehouse>
+            <WarehouseStorage>
+                <StorageMax>20000</StorageMax>
+            </WarehouseStorage>
+        </Warehouse>
+    </ModOp>
+
+    <!-- 邮局信件存储 -->
+    <ModOp Type="merge" GUID="3741,3761,4260" Path="/Values">
+        <Warehouse>
+            <WarehouseStorage>
+                <StorageMax>40000</StorageMax>
+            </WarehouseStorage>
+        </Warehouse>
+    </ModOp>
+
+    <!-- 邮筒信件存储 -->
+    <ModOp Type="merge" GUID="538,3661" Path="/Values">
+        <Warehouse>
+            <WarehouseStorage>
+                <StorageMax>10000</StorageMax>
+            </WarehouseStorage>
+        </Warehouse>
+    </ModOp>
+</ModOps>
